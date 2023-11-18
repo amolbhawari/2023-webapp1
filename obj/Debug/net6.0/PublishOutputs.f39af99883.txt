@@ -1,0 +1,7 @@
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\Webapp1.exe
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\appsettings.json
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\Webapp1.dll
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\Webapp1.deps.json
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\Webapp1.runtimeconfig.json
+D:\1.DevOps\Code\Webapp1\bin\Debug\net6.0\publish\Webapp1.pdb
